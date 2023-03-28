@@ -1,7 +1,8 @@
 ## Projeto Final do Módulo 1 - LM Tech Data Talents
 
-Turma: 970
-Módulo: Lógica de Programação II
+Turma: 970 LM Tech Data Talents
+
+Módulo: Lógica de Programação II (PY)
 
 
 ### Descrição do projeto
