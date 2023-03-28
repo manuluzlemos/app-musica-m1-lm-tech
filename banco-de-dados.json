@@ -1,0 +1,733 @@
+{
+    "artistas": [
+        {
+            "codigo": 1,
+            "nome": "Taylor Swift",
+            "albuns": [
+                1,
+                2,
+                8,
+                13,
+                14,
+                16
+            ]
+        },
+        {
+            "codigo": 2,
+            "nome": "Ed Sheeran",
+            "albuns": [
+                3
+            ]
+        },
+        {
+            "codigo": 3,
+            "nome": "Lauren Daigle",
+            "albuns": [
+                6
+            ]
+        },
+        {
+            "codigo": 4,
+            "nome": "Hillsong",
+            "albuns": [
+                7
+            ]
+        },
+        {
+            "codigo": 5,
+            "nome": "Rema",
+            "albuns": [
+                5
+            ]
+        },
+        {
+            "codigo": 7,
+            "nome": "Forrest Frank",
+            "albuns": []
+        },
+        {
+            "codigo": 8,
+            "nome": "Charity Gayle",
+            "albuns": [
+                4
+            ]
+        },
+        {
+            "codigo": 9,
+            "nome": "Lauren Jauregui",
+            "albuns": []
+        },
+        {
+            "codigo": 10,
+            "nome": "Hillsong United",
+            "albuns": [
+                11
+            ]
+        },
+        {
+            "codigo": 11,
+            "nome": "Sam Smith",
+            "albuns": [
+                9
+            ]
+        },
+        {
+            "codigo": 12,
+            "nome": "Will Smith",
+            "albuns": [
+                10
+            ]
+        },
+        {
+            "codigo": 13,
+            "nome": "Teste",
+            "albuns": [
+                12
+            ]
+        },
+        {
+            "codigo": 14,
+            "nome": "Tayl",
+            "albuns": []
+        },
+        {
+            "codigo": 15,
+            "nome": "Kemuel",
+            "albuns": [
+                15
+            ]
+        },
+        {
+            "codigo": 16,
+            "nome": "Anderson Freire",
+            "albuns": [
+                17
+            ]
+        },
+        {
+            "codigo": 17,
+            "nome": "Isadora Pompeo",
+            "albuns": [
+                18
+            ]
+        },
+        {
+            "codigo": 18,
+            "nome": "Rihanna",
+            "albuns": []
+        },
+        {
+            "codigo": 19,
+            "nome": "Black Pink",
+            "albuns": [
+                19
+            ]
+        }
+    ],
+    "albuns": [
+        {
+            "codigo": 1,
+            "nome": "Evermore",
+            "musicas": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "codigo": 2,
+            "nome": "Reputation",
+            "musicas": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "codigo": 3,
+            "nome": "Divide",
+            "musicas": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "codigo": 4,
+            "nome": "Lord, You Are My Song",
+            "musicas": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "codigo": 5,
+            "nome": "Calm Down",
+            "musicas": [
+                16
+            ]
+        },
+        {
+            "codigo": 6,
+            "nome": "Look Up Child",
+            "musicas": [
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "codigo": 7,
+            "nome": "No Other Name",
+            "musicas": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ]
+        },
+        {
+            "codigo": 8,
+            "nome": "1989",
+            "musicas": [
+                26,
+                27,
+                28,
+                29
+            ]
+        },
+        {
+            "codigo": 9,
+            "nome": "In the Lonely Hour",
+            "musicas": [
+                30,
+                31
+            ]
+        },
+        {
+            "codigo": 10,
+            "nome": "Big Willie Style",
+            "musicas": [
+                32,
+                33
+            ]
+        },
+        {
+            "codigo": 11,
+            "nome": "Zion",
+            "musicas": [
+                34,
+                35,
+                36
+            ]
+        },
+        {
+            "codigo": 12,
+            "nome": "Testando",
+            "musicas": [
+                37,
+                38,
+                39
+            ]
+        },
+        {
+            "codigo": 13,
+            "nome": "Lover",
+            "musicas": [
+                40,
+                41,
+                42
+            ]
+        },
+        {
+            "codigo": 14,
+            "nome": "Red",
+            "musicas": [
+                43,
+                44
+            ]
+        },
+        {
+            "codigo": 15,
+            "nome": "Canta Minh'Alma",
+            "musicas": [
+                45
+            ]
+        },
+        {
+            "codigo": 16,
+            "nome": "Folklore",
+            "musicas": [
+                46,
+                47
+            ]
+        },
+        {
+            "codigo": 17,
+            "nome": "Identidade",
+            "musicas": [
+                48,
+                49
+            ]
+        },
+        {
+            "codigo": 18,
+            "nome": "Pra Te Contar os Meus Segredos",
+            "musicas": [
+                50,
+                51,
+                52
+            ]
+        },
+        {
+            "codigo": 19,
+            "nome": "Square Up",
+            "musicas": [
+                53,
+                54
+            ]
+        }
+    ],
+    "playlists": [
+        {
+            "codigo": 1,
+            "nome": "Melhores TS",
+            "musicas": [
+                5,
+                1,
+                26,
+                2
+            ]
+        },
+        {
+            "codigo": 2,
+            "nome": "Gospel S2",
+            "musicas": [
+                17,
+                34,
+                21
+            ]
+        },
+        {
+            "codigo": 3,
+            "nome": "Minhas favoritas",
+            "musicas": [
+                1,
+                9,
+                17,
+                34,
+                26
+            ]
+        },
+        {
+            "codigo": 4,
+            "nome": "Quero Dan\u00e7ar",
+            "musicas": [
+                27,
+                16,
+                8
+            ]
+        },
+        {
+            "codigo": 5,
+            "nome": "Favoritas da Manu",
+            "musicas": [
+                16,
+                26
+            ]
+        },
+        {
+            "codigo": 6,
+            "nome": "Playlist Novidades",
+            "musicas": [
+                10,
+                28,
+                33
+            ]
+        },
+        {
+            "codigo": 7,
+            "nome": "Testes dos Testes",
+            "musicas": [
+                38
+            ]
+        },
+        {
+            "codigo": 8,
+            "nome": "Nova Playlist",
+            "musicas": [
+                16,
+                19
+            ]
+        },
+        {
+            "codigo": 9,
+            "nome": "Gospel+",
+            "musicas": [
+                45,
+                17,
+                35
+            ]
+        },
+        {
+            "codigo": 10,
+            "nome": "TS Forever",
+            "musicas": [
+                47,
+                44,
+                1
+            ]
+        },
+        {
+            "codigo": 11,
+            "nome": "Life",
+            "musicas": [
+                52,
+                17,
+                45
+            ]
+        },
+        {
+            "codigo": 12,
+            "nome": "Novas M\u00fasicas",
+            "musicas": [
+                16,
+                53,
+                40,
+                8
+            ]
+        }
+    ],
+    "musicas": [
+        {
+            "codigo": 1,
+            "nome": "willow",
+            "duracao": "00:03:34",
+            "genero": "Indie folk"
+        },
+        {
+            "codigo": 2,
+            "nome": "champagne problems",
+            "duracao": "00:04:04",
+            "genero": "Country"
+        },
+        {
+            "codigo": 3,
+            "nome": "evermore",
+            "duracao": "00:05:03",
+            "genero": "Indie folk"
+        },
+        {
+            "codigo": 4,
+            "nome": "...Ready for it?",
+            "duracao": "00:03:28",
+            "genero": "Electropop"
+        },
+        {
+            "codigo": 5,
+            "nome": "End Game",
+            "duracao": "00:04:04",
+            "genero": "Electropop"
+        },
+        {
+            "codigo": 6,
+            "nome": "Look What You Made Me Do",
+            "duracao": "00:03:31",
+            "genero": "Dance-pop"
+        },
+        {
+            "codigo": 7,
+            "nome": "King of My Heart",
+            "duracao": "00:03:34",
+            "genero": "Electropop"
+        },
+        {
+            "codigo": 8,
+            "nome": "Shape of You",
+            "duracao": "00:03:53",
+            "genero": "Dancehall"
+        },
+        {
+            "codigo": 9,
+            "nome": "Perfect",
+            "duracao": "00:04:23",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 10,
+            "nome": "New man",
+            "duracao": "00:03:09",
+            "genero": "Pop rap"
+        },
+        {
+            "codigo": 11,
+            "nome": "Lord, You Are My Song",
+            "duracao": "00:05:22",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 12,
+            "nome": "There is a Name",
+            "duracao": "00:04:17",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 13,
+            "nome": "Thank You Jesus for the Blood",
+            "duracao": "00:06:24",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 14,
+            "nome": "You Surround Me",
+            "duracao": "00:05:23",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 15,
+            "nome": "I Speak Jesus",
+            "duracao": "00:04:33",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 16,
+            "nome": "Calm Down",
+            "duracao": "00:03:22",
+            "genero": "Afrobeats"
+        },
+        {
+            "codigo": 17,
+            "nome": "You Say",
+            "duracao": "00:04:35",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 18,
+            "nome": "Look Up Child",
+            "duracao": "00:03:03",
+            "genero": "Pop Crist\u00e3o"
+        },
+        {
+            "codigo": 19,
+            "nome": "Inevitable",
+            "duracao": "00:02:41",
+            "genero": "Pop Crist\u00e3o"
+        },
+        {
+            "codigo": 20,
+            "nome": "This I Believe (The Creed)",
+            "duracao": "00:06:43",
+            "genero": "Worship"
+        },
+        {
+            "codigo": 21,
+            "nome": "Broken Vessels (Amazing Grace)",
+            "duracao": "00:09:29",
+            "genero": "Worship"
+        },
+        {
+            "codigo": 22,
+            "nome": "No Other Name",
+            "duracao": "00:07:24",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 23,
+            "nome": "Thank You Jesus",
+            "duracao": "00:05:10",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 24,
+            "nome": "My Story",
+            "duracao": "00:04:25",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 25,
+            "nome": "Our Father",
+            "duracao": "00:05:29",
+            "genero": "Worship"
+        },
+        {
+            "codigo": 26,
+            "nome": "Blank Space",
+            "duracao": "00:03:51",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 27,
+            "nome": "Shake It Off",
+            "duracao": "00:03:39",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 28,
+            "nome": "Bad Blood",
+            "duracao": "00:03:31",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 29,
+            "nome": "Wildest Dreams",
+            "duracao": "00:03:31",
+            "genero": "Pop rock"
+        },
+        {
+            "codigo": 30,
+            "nome": "Stay with Me",
+            "duracao": "00:02:52",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 31,
+            "nome": "Like I Can",
+            "duracao": "00:02:47",
+            "genero": "Balada"
+        },
+        {
+            "codigo": 32,
+            "nome": "Candy",
+            "duracao": "00:03:57",
+            "genero": "Hip hop"
+        },
+        {
+            "codigo": 33,
+            "nome": "I Loved You",
+            "duracao": "00:04:14",
+            "genero": "R&B"
+        },
+        {
+            "codigo": 34,
+            "nome": "Oceans (Where Feet May Fail)",
+            "duracao": "00:08:56",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 35,
+            "nome": "Mercy Mercy",
+            "duracao": "00:04:41",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 36,
+            "nome": "King of Heaven",
+            "duracao": "00:06:19",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 37,
+            "nome": "Esse \u00e9 o meu teste",
+            "duracao": "00:05:00",
+            "genero": "Rock"
+        },
+        {
+            "codigo": 38,
+            "nome": "Teste, voc\u00ea est\u00e1 aqui",
+            "duracao": "00:05:06",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 39,
+            "nome": "Minha M\u00fasica Teste",
+            "duracao": "00:03:46",
+            "genero": "Metal"
+        },
+        {
+            "codigo": 40,
+            "nome": "Lover",
+            "duracao": "00:03:41",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 41,
+            "nome": "The Man",
+            "duracao": "00:03:41",
+            "genero": "Pop Rock"
+        },
+        {
+            "codigo": 42,
+            "nome": "Me!",
+            "duracao": "00:03:13",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 43,
+            "nome": "Red",
+            "duracao": "00:03:43",
+            "genero": "Pop rock"
+        },
+        {
+            "codigo": 44,
+            "nome": "22",
+            "duracao": "00:03:52",
+            "genero": "Bubblegum pop"
+        },
+        {
+            "codigo": 45,
+            "nome": "Ousado Amor",
+            "duracao": "00:05:12",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 46,
+            "nome": "the 1",
+            "duracao": "00:03:30",
+            "genero": "Indie Folk"
+        },
+        {
+            "codigo": 47,
+            "nome": "mad woman",
+            "duracao": "00:03:57",
+            "genero": "Indie Folk"
+        },
+        {
+            "codigo": 48,
+            "nome": "Identidade",
+            "duracao": "00:04:06",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 49,
+            "nome": "Cora\u00e7\u00e3o Valente",
+            "duracao": "00:05:57",
+            "genero": "Gospel"
+        },
+        {
+            "codigo": 50,
+            "nome": "Oi, Jesus",
+            "duracao": "00:03:45",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 51,
+            "nome": "Pra Te Contar os Meus Segredos",
+            "duracao": "00:03:45",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 52,
+            "nome": "O Teu Amor",
+            "duracao": "00:04:48",
+            "genero": "Pop"
+        },
+        {
+            "codigo": 53,
+            "nome": "Forever Young",
+            "duracao": "00:03:57",
+            "genero": "Dance-pop"
+        },
+        {
+            "codigo": 54,
+            "nome": "Really",
+            "duracao": "00:03:17",
+            "genero": "R&B"
+        }
+    ]
+}
